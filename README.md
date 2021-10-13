@@ -1,3 +1,16 @@
+# Instagram React Clone App
+
+## Tools Used are:
+  
+  1. HTML and CSS
+  2. ReactJs 
+  3. Firebase for storing database
+
+## Screenshots :
+  ![insta3](https://user-images.githubusercontent.com/72061096/137090148-03552583-d7be-4a4e-890a-df5dff462bf2.png)
+
+ ![insta2](https://user-images.githubusercontent.com/72061096/137090229-d06a6e54-f86b-4f22-8674-8f3ad8a7a9f7.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
